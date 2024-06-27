@@ -1,0 +1,2 @@
+model_path: ./chess_model.h5
+use_checkpoint: true
